@@ -48,7 +48,7 @@ A sample Excel row:
 |----------|----------|----------|----------|----------|---------------|------------|
 | What is the output of the following Swift code? | 3 | 8 | 15 | Error | 3 | 30 |
 
-An image (`quiz_images/extra_info_0.jpg`) will contain the code snippet:
+An image (`quiz_images/extra_info_1.jpg`) will contain the code snippet:
 ```swift
 func calculate(x: Int, y: Int = 5) -> Int { return x * y }
 print(calculate(x: 3))
