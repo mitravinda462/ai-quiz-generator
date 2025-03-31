@@ -21,6 +21,7 @@ pip install google-generativeai pandas openpyxl langchain langchain_community la
 2. Ensure you have the necessary Python libraries installed.
 
 ## Usage
+Set the `topic` and the `num_questions` fields
 Run the cells in ai_quiz_generotor.ipynb or
 
 Run the script with:
